@@ -8,7 +8,7 @@
 </div>
 
 ## - Objective ♟ 
-The objective of this app was to create a site capable of making all types of calculations. It's a simple calculator but with a nice design, you can see it [running here](https://dtmoney-rocketseat.netlify.app/)
+The objective of this app was to create a site capable of making all types of calculations. It's a simple calculator but with a nice design, you can see it [running here](https://react-calculator-jravolio.netlify.app/)
  
 <div align = "center">
 <img src="./readmeImg/example.png" />
